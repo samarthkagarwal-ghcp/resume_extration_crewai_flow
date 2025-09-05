@@ -1,0 +1,57 @@
+{
+    "status": "success",
+    "First_Name": "Terrence",
+    "Last_Name": "Coleman",
+    "email_address": "tcoleman@email.com",
+    "skills": [
+        "Python (NumPy, Pandas, Scikit-learn, Flask)",
+        "SAS",
+        "SQL - Redshift, MySQL",
+        "ElasticSearch",
+        "Recommendation Engines",
+        "Customer Segmentation & Retention Models",
+        "Price Optimization",
+        "Productionizing Models"
+    ],
+    "phone_number": "(123) 456-7890",
+    "location": "Brooklyn, NY",
+    "linkedin": null,
+    "summary": "Analytically minded self-starter with a decade of experience collaborating with cross-functional teams and ensuring the accuracy and integrity around data and actionable insights. Prepared to lead teams and interns in predictive modeling and insight reporting to boost Hyphen's business efﬁciency, strategic goals, and proﬁt.",
+    "work_experience": {
+        "Best Buy": {
+            "title": "Senior Data Scientist",
+            "dates": "October 2018 - current",
+            "location": "Remote",
+            "description": "Led data extraction and evaluation efforts to save Best Buy more than 11M over the course of tenure\nPartnered with product team to build a production recommendation engine in Python that improved the average length on page for users and resulted in $450K in incremental annual revenue\nCreated a customer attrition random forest model, improving monthly retention by 6 basis points for customers likely to attrit by servicing relevant product features for them\nCommunicated with PMs to lead 4 data scientists in project planning, development, and execution\nCoached data team throughout short and long-term projects, redeﬁning documentation frequently"
+        },
+        "2U": [
+            {
+                "title": "Data Scientist",
+                "dates": "April 2014 - October 2018",
+                "location": "Brooklyn, NY",
+                "description": "Conducted A/B testing to solve client pain points in learning platforms, and identiﬁed and recommended solutions to solve unclear platform roadmaps, which reduced the bounce rate by 62%\nExtracted data from 7 disparate sources, and increased agility and accuracy with a centralized system\nConstructed decisions trees to optimize needed algorithms to better target the learning audience by 15%"
+            },
+            {
+                "title": "Data Analyst",
+                "dates": "April 2012 - April 2014",
+                "location": "Brooklyn, NY",
+                "description": "Determined, using Python clustering methods, groups of states where underwriting models were underperforming, and owned improvements to increase proﬁt by 4%\nIdentiﬁed procedural areas of improvement through customer data to help improve the proﬁtability of a nationwide retention program by 8%\nDeveloped and owned the reporting for a nationwide retention program using Python, SQL, and Excel, saving an average of 60 hours of labor each month"
+            }
+        ]
+    },
+    "education": {
+        "University of Pittsburgh": [
+            {
+                "degree": "Master's ,Mathematics",
+                "dates": "September 2012 - April 2014",
+                "location": "Pittsburgh, PA"
+            },
+            {
+                "degree": "Bachelor's,Mathematics and Economics",
+                "dates": "September 2008 - April 2012",
+                "location": "Pittsburgh, PA"
+            }
+        ]
+    },
+    "certifications": {}
+}

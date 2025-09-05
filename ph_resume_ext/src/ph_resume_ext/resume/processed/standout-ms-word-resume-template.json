@@ -1,0 +1,64 @@
+{
+    "status": "success",
+    "First_Name": "Kaida",
+    "Last_Name": "Kim",
+    "email_address": "kim.kaida@gmail.com",
+    "skills": [
+        "McKesson",
+        "GE Corometrics",
+        "Baxter Sigma Spectrum",
+        "Masimo Root with Radius -7",
+        "GE Healthcare CARESCAPE Monitor B650/B850",
+        "Abbott i -STAT System",
+        "Siemens epoc Blood Analysis System"
+    ],
+    "phone_number": "(123) 456-7890",
+    "location": "Knoxville, TN",
+    "linkedin": null,
+    "summary": null,
+    "work_experience": {
+        "East Tennessee Children's Hospital": {
+            "title": "Labor and Delivery Nurse",
+            "location": "Knoxville, TN",
+            "dates": "November 2019 - current",
+            "description": [
+                "Used GE Corometrics fetal monitors to track and evaluate fetal heart rates for 450+ cases each year, ensuring accurate and timely intervention as needed",
+                "Developed and implemented individualized care plans for high -risk pregnancies, decreasing complications by 77%",
+                "Used the Siemens epoc Blood Analysis System to provide immediate blood gas, electrolyte, and metabolite results",
+                "Oversaw the neonatal resuscitation program, ensuring staff certification and contributing to a 62% improvement in neonatal outcomes",
+                "Drew blood from an average of 70 patients per day while maintaining a less than 2% recollection rate",
+                "Provided rapid bedside blood analysis and reduced turnaround times for results by 43% through the Abbott i -STAT System",
+                "Coordinated with lab technicians to ensure prompt and accurate blood sample analysis"
+            ]
+        },
+        "Saint Thomas Health": {
+            "title": "Phlebotomist",
+            "location": "Nash ville, TN",
+            "dates": "Octo ber 2015 – October 2019",
+            "description": [
+                "Conducted over 200+ mobile blood drives and boosted blood donations by 54%"
+            ]
+        },
+        "Vanderbilt University Medical Center": {
+            "title": "Medical Assistant",
+            "location": "Nash ville, TN",
+            "dates": "September 2012 – September 2015",
+            "description": [
+                "Managed 3,000+ patient appointments with McKesson EHR each year, increasing clinic efficiency by 25%",
+                "Reduced patient wait times by 36% by implementing self check -in kiosks and managing patient flow",
+                "Cleaned and sterilized medical equipment, maintaining compliance with safety and health regulations",
+                "Developed new informational materials to educate patients and increase compliance with treatment plans"
+            ]
+        }
+    },
+    "education": {
+        "Vanderbilt University": {
+            "degree": "Bachelor of Science Nursing",
+            "dates": "2018 -2020",
+            "location": "Nashville, TN"
+        }
+    },
+    "certifications": {
+        "Certified Registered Nurse in Obstetrics (C -OB)": null
+    }
+}

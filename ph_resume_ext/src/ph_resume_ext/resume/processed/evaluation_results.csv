@@ -1,0 +1,6 @@
+resume,first_name_acc,last_name_acc,email_acc,skills_precision,skills_recall,skills_f1
+elegant-ms-word-resume-template,1,1,1,1.0,1.0,1.0
+entry-level-data-scientist-resume-example,1,1,1,1.0,1.0,1.0
+official-ms-word-resume-template,1,1,1,1.0,1.0,1.0
+senior-data-scientist-resume-example,1,1,1,0.875,0.875,0.875
+standout-ms-word-resume-template,1,1,1,0.7142857142857143,0.7142857142857143,0.7142857142857143

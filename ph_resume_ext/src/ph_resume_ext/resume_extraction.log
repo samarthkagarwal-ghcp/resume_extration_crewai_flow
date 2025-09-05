@@ -1,0 +1,77 @@
+2025-09-05 07:34:57,608 - INFO - Reading resumes from directory: resume\templates
+2025-09-05 07:35:31,403 - INFO - Reading resumes from directory: resume\templates
+2025-09-05 07:35:31,414 - INFO - Reading resumes from directory: resume\templates
+2025-09-05 07:35:31,414 - INFO - Converting resume\templates\elegant-ms-word-resume-template.docx to PDF format.
+2025-09-05 07:35:36,750 - INFO - Found resume: resume\processing\elegant-ms-word-resume-template.pdf
+2025-09-05 07:35:36,750 - INFO - Copying PDF file resume\templates\entry-level-data-scientist-resume-example.pdf to processing directory.
+2025-09-05 07:35:36,752 - INFO - Found resume: resume\processing\entry-level-data-scientist-resume-example.pdf
+2025-09-05 07:35:36,752 - INFO - Converting resume\templates\official-ms-word-resume-template.docx to PDF format.
+2025-09-05 07:35:38,127 - INFO - Found resume: resume\processing\official-ms-word-resume-template.pdf
+2025-09-05 07:35:38,128 - INFO - Copying PDF file resume\templates\senior-data-scientist-resume-example.pdf to processing directory.
+2025-09-05 07:35:38,129 - INFO - Found resume: resume\processing\senior-data-scientist-resume-example.pdf
+2025-09-05 07:35:38,129 - INFO - Converting resume\templates\standout-ms-word-resume-template.docx to PDF format.
+2025-09-05 07:35:45,456 - INFO - Found resume: resume\processing\standout-ms-word-resume-template.pdf
+2025-09-05 07:35:45,466 - INFO - Reading resumes from directory: resume\templates
+2025-09-05 07:35:45,467 - INFO - Converting resume\templates\elegant-ms-word-resume-template.docx to PDF format.
+2025-09-05 07:35:50,624 - INFO - Found resume: resume\processing\elegant-ms-word-resume-template.pdf
+2025-09-05 07:35:50,624 - INFO - Copying PDF file resume\templates\entry-level-data-scientist-resume-example.pdf to processing directory.
+2025-09-05 07:35:50,626 - INFO - Found resume: resume\processing\entry-level-data-scientist-resume-example.pdf
+2025-09-05 07:35:50,626 - INFO - Converting resume\templates\official-ms-word-resume-template.docx to PDF format.
+2025-09-05 07:35:54,101 - INFO - Found resume: resume\processing\official-ms-word-resume-template.pdf
+2025-09-05 07:35:54,101 - INFO - Copying PDF file resume\templates\senior-data-scientist-resume-example.pdf to processing directory.
+2025-09-05 07:35:54,102 - INFO - Found resume: resume\processing\senior-data-scientist-resume-example.pdf
+2025-09-05 07:35:54,102 - INFO - Converting resume\templates\standout-ms-word-resume-template.docx to PDF format.
+2025-09-05 07:35:57,764 - INFO - Found resume: resume\processing\standout-ms-word-resume-template.pdf
+2025-09-05 07:36:02,764 - INFO - Processing resume: resume\processing\elegant-ms-word-resume-template.pdf
+2025-09-05 07:36:02,786 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:36:13,103 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:36:13,122 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:36:13,127 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:36:19,649 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:36:19,663 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:36:19,664 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:36:27,652 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:36:27,653 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:36:27,661 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:36:28,723 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:36:28,741 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:36:28,793 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:36:34,241 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:36:34,258 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:36:34,269 - INFO - Successfully extracted JSON from LLM response for file: resume\processing\elegant-ms-word-resume-template.pdf
+2025-09-05 07:36:34,269 - INFO - JSON output saved to: resume\processed\elegant-ms-word-resume-template.json
+2025-09-05 07:36:44,270 - INFO - Processing resume: resume\processing\entry-level-data-scientist-resume-example.pdf
+2025-09-05 07:36:44,283 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:36:49,428 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:36:49,429 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:36:49,437 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:36:50,377 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:36:50,399 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:36:50,479 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:36:54,879 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:36:54,885 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:36:54,895 - INFO - Successfully extracted JSON from LLM response for file: resume\processing\entry-level-data-scientist-resume-example.pdf
+2025-09-05 07:36:54,895 - INFO - JSON output saved to: resume\processed\entry-level-data-scientist-resume-example.json
+2025-09-05 07:37:04,896 - INFO - Processing resume: resume\processing\official-ms-word-resume-template.pdf
+2025-09-05 07:37:04,909 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:37:10,953 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:37:10,966 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:37:10,973 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:37:11,913 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:37:11,928 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:37:11,968 - INFO - 
+LiteLLM completion() model= gemini-2.0-flash; provider = gemini
+2025-09-05 07:37:16,796 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyCd7EM0hDfugadBw_Mss1QWFIehrdcnzm4 "HTTP/1.1 200 OK"
+2025-09-05 07:37:16,808 - INFO - Wrapper: Completed Call, calling success_handler
+2025-09-05 07:37:16,818 - INFO - Successfully extracted JSON from LLM response for file: resume\processing\official-ms-word-resume-template.pdf
+2025-09-05 07:37:16,818 - INFO - JSON output saved to: resume\processed\official-ms-word-resume-template.json

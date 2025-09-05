@@ -1,0 +1,51 @@
+{
+    "status": "extracted",
+    "First_Name": "Renata",
+    "Last_Name": "Voss",
+    "email_address": "r.voss@email.com",
+    "skills": [
+        "JIRA",
+        "Amazon Web Services (AWS)",
+        "Jenkins",
+        "TensorFlow",
+        "Spring Boot",
+        "Apache Hadoop",
+        "IDPS",
+        "React Native",
+        "Selenium",
+        "Oracle"
+    ],
+    "phone_number": "(123) 456-7890",
+    "location": "San Jose, CA",
+    "linkedin": "Github.com",
+    "summary": null,
+    "work_experience": {
+        "Director of Software Engineering": {
+            "company": "Adobe",
+            "dates": "2019 - current",
+            "location": "San Jose, CA",
+            "description": "•Managed cross -functional team on Jira, increasing production velocity by 23%\n•Integrated IDPS into systems, which decreased instances of successful socially engineered attacks to less than 1%\n•Boosted processes through Jenkins -backed workflows that improved the quality of outcomes by a 54% margin\n•Achieved a 97% Net Promoter Score  and a 4.7 out of 5 rating from end users for error -free end products"
+        },
+        "Senior Engineering Manager": {
+            "company": "Paypal",
+            "dates": "2014 - 2019",
+            "location": "San Jose, CA",
+            "description": "•Resolved app incompatibility issues with some mobile devices using AWS, reducing user -reporting incidences by 92%\n•Incorporated agile best practices into core processes, which reduced average production cycle time by 17% across projects\n•Decreased mobile app density defects by 31%  by integrating React Native UI elements\n•Worked within budget and timelines to deliver user -eccentric solutions and maintained a user satisfaction rating of 94% through customer feedback surveys"
+        },
+        "Principal Software Engineer": {
+            "company": "Intel",
+            "dates": "2010 - 2014",
+            "location": "Santa Clara, CA",
+            "description": "•Optimized storage and dataset processing through Apache Hadoop, resulting in a 47% increase in concurrent user capacity\n•Automated web applications testing across browsers with Selenium that shrank user -reported defects by 68%\n•Led a team of 4 software engineers to create and upgrade databases on Oracle with a consistent 98% on -time delivery rate\n•Implemented cloud infrastructure optimizations, which decreased monthly hosting costs by 28% and boosted system reliability"
+        }
+    },
+    "education": {
+        "Bachelor of Science": {
+            "degree": "Software Engineering",
+            "institution": "California Institute of Technology",
+            "dates": "2006 -2010",
+            "location": "Pasadena, CA"
+        }
+    },
+    "certifications": {}
+}

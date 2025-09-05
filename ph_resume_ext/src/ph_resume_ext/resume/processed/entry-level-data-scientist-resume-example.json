@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "First_Name": "Trish",
+    "Last_Name": "Mathers",
+    "email_address": "tmathers@email.com",
+    "skills": [
+        "SAS (base SAS and Macros)",
+        "SQL",
+        "linear and logistic regressions",
+        "decision trees",
+        "support vector machines (SVM)",
+        "k-means clustering",
+        "principal component analysis (PCA)",
+        "Excel",
+        "Google Sheets"
+    ],
+    "phone_number": "(123) 456-7890",
+    "location": "Bellevue, WA",
+    "linkedin": "LinkedIn",
+    "summary": "Innovative and scientiﬁcally rigorous graduate with signiﬁcant data science\ninternship experience to bring to the table. With a team-oriented attitude,\nI'm eager to contribute my abilities in quantitative modeling and\nexperimentation to enhance the experience of global Pinterest users.",
+    "work_experience": {
+        "Niantic": {
+            "title": "Data Scientist Intern",
+            "location": "Seattle, WA",
+            "dates": "April 2022 - December 2022",
+            "description": "Developed a program in SAS that automated reﬁnement of linear\nregression models for speciﬁc segments of a customer base that\nsaved 22 hours of labor per month.\nReceived, cleaned, and prepped data from client using SAS, SQL, and\nExcel to help data scientists build marketing mix models that resulted\nin a lift in ROI of 10 basis points."
+        },
+        "Seattle University Tutor Center": {
+            "title": "Statistics and Mathematics Tutor",
+            "location": "Seattle, WA",
+            "dates": "April 2020 - April 2022",
+            "description": "Assessed students' learning to determine learning weaknesses and\nneeds, successfully helping students perform 13% better in algebra,\npre-calculus, calculus, and statistics undergraduate courses.\nMet with 30+ students per week through online learning platforms or\nin a 1:1 setting at the tutor center.\nScheduled weekly appointments for students, and set schedules for\nstudent statistics and math tutors.\nCommunicated with professors about curriculum, and submitted\nreports 2 times per week to maintain up-to-date learning plans for\nstudents."
+        }
+    },
+    "education": {
+        "Seattle University": {
+            "degree": "B.S.",
+            "major": "Mathematics and Economics",
+            "dates": "September 2019 - April 2023",
+            "location": "Seattle, WA",
+            "gpa": "3.7",
+            "relevant_courses": [
+                "Intermediate programming",
+                "Probability & Statistics",
+                "Linear Algebra",
+                "Applied Econometrics",
+                "Game Theory",
+                "Calculus 1-3"
+            ]
+        }
+    },
+    "certifications": {}
+}

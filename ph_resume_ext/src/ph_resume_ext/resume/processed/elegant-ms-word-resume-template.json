@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "First_Name": "Octavio",
+    "Last_Name": "Silva",
+    "email_address": "osilva123@email.com",
+    "skills": [
+        "Zendesk",
+        "Intercom",
+        "Skype",
+        "Avaya",
+        "Confluence",
+        "Document360",
+        "AWeber",
+        "SysAid"
+    ],
+    "phone_number": "(123) 456 -7890",
+    "location": "Colorado Springs, CO",
+    "linkedin": null,
+    "summary": null,
+    "work_experience": {
+        "Director of Product Management Comcast May 2018 - current Colorado Springs, CO": [
+            "Streamlined customer support process by using SysAid for ticket management, boosting satisfaction ratings by 27%.",
+            "Upsold Comcast products and services to 20% of inbound callers, contributing to a 7% increase in quarterly sales .",
+            "Used Confluence to update and maintain customer service knowledge base, reducing training time for new hires.",
+            "Implemented a new process for FAQ updates with Document360, reducing basic inquiries by 63%.",
+            "Increased customer engagement by 14% through proactive follow -ups using the Intercom chat platform."
+        ],
+        "Sales Associate Best Buy November 2013 – April 2018 Colorado Springs, CO": [
+            "Boosted sales of high -end electronics by 34% through deep product knowledge and personalized demonstrations.",
+            "Reduced inventory shrinkage by 17% with loss prevention techniques and inventory management.",
+            "Led a store initiative to promote eco -friendly products, resulting in a 44% increase in their sales.",
+            "Participated in community outreach events, contributing to an in -store foot traffic rise of 39%."
+        ],
+        "Cashier Safeway January 2010 – October 2013 Centennial, CO": [
+            "Trained 5 new cashiers on POS system usage, service protocols, and company policy, boosting team performance.",
+            "Upsold Safeway for U memberships to 28% of customers, contributing to increased store loyalty.",
+            "Worked with the customer service desk to handle 20+ daily inquiries and complaints, maintaining a high standard of service.",
+            "Improved customer satisfaction by 47% by offering bagging assistance and providing information about promotions."
+        ]
+    },
+    "education": {
+        "Bachelor of Science Business Management Colorado State University Global 2008 - 2012 Greenwood Village, CO": []
+    },
+    "certifications": {
+        "Customer Service and Sales Certification (CSSC)": []
+    }
+}

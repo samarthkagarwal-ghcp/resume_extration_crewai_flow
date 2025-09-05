@@ -1,0 +1,19 @@
+extract_content:
+  description: >
+    Extract text content from resumes ({file_path}) by reading the file content and processing both PDF and Word documents.
+    Use appropriate search tools to gather comprehensive textual information from the document. 
+    Search for various resume-related terms like 'name', 'email', 'contact', 'skills', 'experience', 'education', 'summary' to ensure complete content extraction. 
+    Combine all extracted content into a single comprehensive text output.
+  expected_output: >
+    A structured representation of the extracted text content, including key information such as name, email address, and skills.
+    This output should be in a machine-readable format, i.e., JSON.
+  agent: Extractor_Agent
+
+process_content:
+  description: >
+    Process and clean the extracted resume text content (removing non-English characters and formatting issues), then identify and extract key information including name, email address, and skills in a structured format.
+    Compile a comprehensive list of skills mentioned in the resume.
+    Use the specialized extraction tool to ensure accurate identification and proper formatting.
+  expected_output: >
+    A structured JSON format output containing: name (string), email (string), and skills (list) extracted from the resume. Example: {"name": "John Doe", "email": "john.doe@email.com", "skills": ["Python", "JavaScript", "Project Management", "SQL"]}
+  agent: Processor_Agent
